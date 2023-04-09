@@ -1,0 +1,13 @@
+label { 
+    color: brown;
+    font-family: Arial;
+}
+
+    #table-yuk {
+       margin-top: 20px;
+       margin-left: 0px;
+       margin-bottom: 20px;
+       margin-right: 100px;
+    background-color: aqua;
+    padding: 20px;
+}
