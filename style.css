@@ -26,6 +26,13 @@ body {
     display: block;
 }
 
+#box-body {
+    margin-top: 10px;
+    width: 900px;
+    background-color: beige;
+    display: inline;
+}
+
 .box {
     width: 400px;
     background-color: hotpink;
