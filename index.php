@@ -1,6 +1,6 @@
 <?php
 
-   $nama_Kamu = "Fitri Raayu";
+   $nama_Kamu = "Fitri Rahayu";
    // tanda petik dua
    echo "Hello World";
    echo "<br/";
